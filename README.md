@@ -27,7 +27,7 @@
  
    <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amandeep404&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   (https://activity-graph.herokuapp.com/graph?username=Amandeep404&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ----
 
