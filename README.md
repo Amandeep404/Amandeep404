@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">📌 A passionate developer from India 📌</h3>
+
+<h1> 👨‍💻About me!!</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amandeep404&label=Profile%20views&color=0e75b6&style=flat" alt="amandeep404" /> </p>
 
@@ -19,7 +21,7 @@
 
 ## 📊 Github Stats
 
-<h3 align="left">Github Profile Stats:</h3>
+<h3 align="left">📈Github Profile Stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeep404&show_icons=true&locale=en" alt="amandeep404" /></p><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep404&layout=compact&align="center")](https://github.com/anuraghazra/github-readme-stats)
