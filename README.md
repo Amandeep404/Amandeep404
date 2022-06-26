@@ -20,9 +20,7 @@
 ## 📊 Github Stats
 
 <h3 align="left">Github Profile Stats:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeep404&show_icons=true&locale=en" alt="amandeep404" /></p><br/><br/>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep404&layout=compact&align="center")](https://github.com/anuraghazra/github-readme-stats)" alt="amandeep404" /></p><br/><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeep404&show_icons=true&locale=en" alt="amandeep404" /></p><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep404&layout=compact&align="center")](https://github.com/anuraghazra/github-readme-stats)
  ----
