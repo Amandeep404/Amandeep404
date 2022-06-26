@@ -22,7 +22,7 @@
 <h3 align="left">Github Profile Stats:</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeep404&show_icons=true&locale=en" alt="amandeep404" /></p><br/><br/>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=	Amandeep404&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="	Amandeep404" height="192px"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  ----
  
    <summary><b>⚡ Recent GitHub Activity</b></summary>
