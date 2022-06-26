@@ -27,8 +27,9 @@
  
    <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amandeep404)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   (https://activity-graph.herokuapp.com/graph?username=Amandeep404&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <a href="https://github.com">
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Amandeep404&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" />
  
  ----
 
