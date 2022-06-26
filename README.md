@@ -29,7 +29,7 @@
   <br/>
  <a href="https://github.com">
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Amandeep404&theme=react-dark&line=FB8C01&border=5094F0&bg_color=FFFFFF&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Amandeep404&theme=react-dark&line=FB8C01&border=5094F0&bg_color=FFFFFF&title=000000&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" />
  
  ----
 
