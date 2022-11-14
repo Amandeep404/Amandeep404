@@ -9,11 +9,16 @@
 
 - 👯 I’m looking to collaborate on **more and more open source projects to enhance my learning**
 
-- 📫 Reach me on **singhamandeep1879@gmail.com**
+- 📫 Reach me on  <a href="https://www.linkedin.com/in/amandeep-singh-452949246/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107784525/201739491-6ed5cd01-c203-4b35-b1bf-9770c3706d45.png" alt="amandeep_1879" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/Amandeep404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="amandeep_1879" height="30" width="40" /></a>
 <a href="https://instagram.com/amandeepsingh_1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amandeep_1879" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/amandeep-singh-452949246/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107784525/201739491-6ed5cd01-c203-4b35-b1bf-9770c3706d45.png" alt="amandeep_1879" height="40" width="40" /></a>
+ <a href="https://twitter.com/its_me_Amandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amandeep_1879" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
