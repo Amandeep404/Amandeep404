@@ -26,6 +26,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Higher-order functions and lambdas in Kotlin](https://dev.to/amandeep404/higher-order-functions-and-lambdas-in-kotlin-2agm)
+- [Functions in Kotlin](https://dev.to/amandeep404/functions-in-kotlin-4h6l)
+- [Objects and Classes in Kotlin](https://dev.to/amandeep404/objects-and-classes-in-kotlin-2ojp)
+- [Operators in Kotlin](https://dev.to/amandeep404/lesson-12-operators-in-kotlin-646)
+- [Kotlin Basics](https://dev.to/amandeep404/lesson-11-kotlin-basics-3j9c)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Github Stats
