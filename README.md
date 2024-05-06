@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amandeep404&label=Profile%20views&color=0e75b6&style=flat" alt="amandeep404" /> </p>
 
-- 🌱 I’m currently learning **Android and React**
+- 🌱 I’m currently learning **Machine Learning and I am familiar with Android App Development**
 
 - 👯 I’m looking to collaborate on **more and more open source projects to enhance my learning**
 
